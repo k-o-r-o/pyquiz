@@ -1,0 +1,21 @@
+True or False
+Points: 1
+"The fifth day of the week is Friday?"
+True
+
+Fill in Blank
+Points: 2
+"When using a(n)", "you access individual items in it via indices. Assuming the length is n the valid index values span from", "to", "."
+"array", "0", "n-1"
+
+Multiple Choice
+Points: 1
+"What is the course code for Emerging Technologies?", 
+"CSD1133", "CSD1333", "CSD3344", "CSD3464"
+"C"
+
+Matching
+Points: 2
+"Match each fruit or vegetable with the appropriate color:"
+"Banana", "Carrot", "Lettuce"
+"Yellow", "Orange", "Green"
